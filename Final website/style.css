@@ -393,12 +393,14 @@ html, body {overflow-x: hidden;}
   bottom: 10px;
   right: 10px;
   z-index: 99;
-  font-size: 15px;
+  font-size: 10px;
   border: none;
   outline: none;
-  background-color: black;
+  background-color: #778899;
   color: white;
   cursor: pointer;
-  padding: 5px;
+  padding: 3px;
   border-radius: 2px;
+  
+}
 	}
